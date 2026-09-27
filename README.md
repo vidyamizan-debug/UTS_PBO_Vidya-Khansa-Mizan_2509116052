@@ -80,9 +80,18 @@ Jika objeknya Penitipan, tampilkanInfo() akan menampilkan info umum layanan dita
 
 Jika objeknya Perawatan, tampilkanInfo() akan menampilkan info umum layanan ditambah baris jenis perawatan.
 
-## Condition 
+## Condition (if-else)
+if-else digunakan untuk mengambil keputusan dalam program, seperti menentukan jenis layanan yang dibuat, mengecek apakah data ditemukan atau tidak, dan memvalidasi input pengguna.
+
+<img width="501" height="177" alt="image" src="https://github.com/user-attachments/assets/96422046-6953-4d38-a064-2eeed82182bc" />
+
+Salah satunya kondisi if-else yang digunakan pada gambar di atas untuk menentukan apakah objek yang dibuat adalah Perawatan atau Penitipan, berdasarkan pilihan jenis yang dipilih pengguna. If juga digunakan untuk mengecek apakah ID yang dimasukkan sudah digunakan data lain.
 
 ## Looping
+
+<img width="443" height="86" alt="image" src="https://github.com/user-attachments/assets/af20692a-e084-4348-a530-f834c06c5135" />
+
+Salah satunya kondisi while atau looping yang diterapkan pada gambar di atas ialah agar menu utama terus ditampilkan berulang sampai pengguna memilih menu Keluar.
 
 ## Tampilan Output Sistem
 
